@@ -1,0 +1,32 @@
+body, html {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#todo-container {
+    width: 250px;
+    
+}
+
+#inputfield{
+    width: 200px;
+    height: 25px;
+    vertical-align:middle;
+    font-size: 30px;
+}
+
+#todo-list {
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.paragraph-styling{
+    font-size: 20px;
+    margin: 0;
+    color: red;
+}
